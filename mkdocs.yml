@@ -47,7 +47,7 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
-      clickable_checkbox: false
+      clickable_checkbox: true
   - pymdownx.tilde
 
 plugins:
